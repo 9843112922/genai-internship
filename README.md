@@ -1,0 +1,2 @@
+# genai-internship
+Daily progress

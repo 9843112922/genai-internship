@@ -1,6 +1,6 @@
 # DoWhistle genai-internship Progress
 
-## Day 1 -13/05/2026
+## Day 1 (13/05/2026)
 
 * Today, I Created GitHub repository for internship progress tracking.
 * Read OpenAI documentation about text generation.
@@ -9,8 +9,10 @@
 
 
 ### Resources
+
 https://developers.openai.com/api/docs
-## Day 2 14/05/2026
+
+## Day 2 (14/05/2026)
 
 * Learned what an API is and how APIs work.
 * Studied request and response flow in applications.
@@ -18,4 +20,17 @@ https://developers.openai.com/api/docs
 * Continued reading OpenAI documentation.
 
 ### Resources
+
 https://developers.openai.com/api/docs
+
+
+### Day 3 (15/05/2026)
+
+* Explored OpenAI developer documentation in detail
+* Read about api key generation and Generated OpenAI API key.
+* Learned the purpose of API keys in AI applications.
+* Viewed differences between OpenAI models and Understood model factors like speed, input handling, and cost.
+
+### Resources
+
+https://developers.openai.com/api/docs  

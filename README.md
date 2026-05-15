@@ -24,7 +24,7 @@ https://developers.openai.com/api/docs
 https://developers.openai.com/api/docs
 
 
-### Day 3 (15/05/2026)
+## Day 3 (15/05/2026)
 
 * Explored OpenAI developer documentation in detail
 * Read about api key generation and Generated OpenAI API key.

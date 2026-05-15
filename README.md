@@ -27,10 +27,16 @@ https://developers.openai.com/api/docs
 ## Day 3 (15/05/2026)
 
 * Explored OpenAI developer documentation in detail
-* Read about api key generation and Generated OpenAI API key.
-* Learned the purpose of API keys in AI applications.
-* Viewed differences between OpenAI models and Understood model factors like speed, input handling, and cost.
+* Read about API key generation and generated an OpenAI API key
+* Learned the purpose of API keys in AI applications
+* Viewed differences between OpenAI models
+* Understood model factors like speed, input handling, and cost
+* Explored Responses API and basic AI response workflow
+* Read about Chat Completions and conversational AI interactions
+* Learned basic concepts of prompt engineering
+* Viewed API authentication and security concepts
 
 ### Resources
 
-https://developers.openai.com/api/docs  
+https://developers.openai.com/api/docs
+

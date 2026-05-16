@@ -42,8 +42,6 @@ https://developers.openai.com/api/docs
 
 ## Day 4 (16/05/2026)
 
-## Day 7
-
 * Continued learning LangChain concepts from documentation.
 * Understood the difference between LangChain and LangGraph workflows
 * Learned about LLMs, prompts, chains, and memory workflows.
@@ -54,4 +52,5 @@ https://developers.openai.com/api/docs
 ### Resources
 
 https://docs.langchain.com/oss/python/learn
+https://youtu.be/vJOGC8QJZJQ?si=VqKZITkVFq4auGDj
 

@@ -54,3 +54,14 @@ https://developers.openai.com/api/docs
 https://docs.langchain.com/oss/python/learn
 https://youtu.be/vJOGC8QJZJQ?si=VqKZITkVFq4auGDj
 
+## Day 5 (17/05/2026)
+
+* Completed basic LangChain learning.
+* Learned about prompt engineering and LLM workflows.
+* Explored memory types like short-term memory, long-term memory, and semantic memory.
+* Understood RAG and vector database concepts.
+* Learned how LangChain connects LLMs with external data and tools.
+
+### Resources
+
+https://docs.langchain.com/oss/python/learn

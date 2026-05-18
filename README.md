@@ -65,3 +65,17 @@ https://youtu.be/vJOGC8QJZJQ?si=VqKZITkVFq4auGDj
 ### Resources
 
 https://docs.langchain.com/oss/python/learn
+##  Day 6 (18/05/2026)
+
+# AI Chat Application
+
+Built a simple AI chat application using Python and Groq API.
+
+## Features
+* User input handling
+* AI-generated responses
+* Console-based chatbot
+
+## Technologies Used
+* Python
+* Groq API

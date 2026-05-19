@@ -65,6 +65,7 @@ https://youtu.be/vJOGC8QJZJQ?si=VqKZITkVFq4auGDj
 ### Resources
 
 https://docs.langchain.com/oss/python/learn
+
 ##  Day 6 (18/05/2026)
 
 # AI Chat Application
@@ -79,3 +80,16 @@ Built a simple AI chat application using Python and Groq API.
 ## Technologies Used
 * Python
 * Groq API
+
+## Day 7 (19/05/2026)
+
+- Continued development of AI Personal Assistant Chatbot
+- Implemented Streamlit web interface for chatbot interaction
+- Added conversation memory functionality
+- Improved chat response workflow and chat history handling
+- Tested the AI application with multiple conversations
+
+### Learning Outcome
+- Learned how chatbot memory works in AI applications
+- Understood Streamlit-based AI web application development
+- Improved knowledge of AI conversation workflow and user interaction

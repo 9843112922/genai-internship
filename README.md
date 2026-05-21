@@ -93,3 +93,35 @@ Built a simple AI chat application using Python and Groq API.
 - Learned how chatbot memory works in AI applications
 - Understood Streamlit-based AI web application development
 - Improved knowledge of AI conversation workflow and user interaction
+- 
+## Day 8 (20/05/2026)
+
+- Continued development of AI Personal Assistant Chatbot
+- Implemented translation support inside the chatbot workflow
+- Added multilingual interaction using natural language prompts
+- Improved unified AI conversation handling and response generation
+- Enhanced chatbot interaction and user communication flow
+- Tested multilingual AI responses with different user inputs
+
+### Learning Outcome
+
+- Learned multilingual AI interaction workflow
+- Understood prompt-based translation handling
+- Improved knowledge of AI conversation response generation
+- Gained experience in integrating translation support in AI applications
+    
+## Day 9 (21/05/2026)
+
+- Continued development of AI Personal Assistant Chatbot
+- Implemented News API integration for real-time news retrieval
+- Added API key configuration and live news response handling
+- Improved chatbot workflow with real-time information support
+- Enhanced AI response generation using external API data
+- Tested live news interaction within the AI chatbot application
+
+### Learning Outcome
+
+- Learned real-time API integration in AI applications
+- Understood News API request and response workflow
+- Improved knowledge of integrating live data into AI chat systems
+- Gained experience in external API handling and response processing

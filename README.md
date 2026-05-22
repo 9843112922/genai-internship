@@ -125,3 +125,17 @@ Built a simple AI chat application using Python and Groq API.
 - Understood News API request and response workflow
 - Improved knowledge of integrating live data into AI chat systems
 - Gained experience in external API handling and response processing
+  
+## Day 10 (22/05/2026)
+
+* Continued development of AI Personal Assistant Chatbot
+* Added topic-based live news search functionality using News API
+* Improved chatbot response handling for real-time news queries
+* Enhanced chatbot UI and interaction workflow
+* Tested chatbot with multiple news search queries
+* Updated GitHub repositories with latest project changes
+
+### Learning Outcome
+* Learned integration of real-time APIs in AI applications
+* Improved understanding of topic-based search workflow
+* Enhanced knowledge of chatbot interaction and response handling

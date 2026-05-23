@@ -139,3 +139,27 @@ Built a simple AI chat application using Python and Groq API.
 * Learned integration of real-time APIs in AI applications
 * Improved understanding of topic-based search workflow
 * Enhanced knowledge of chatbot interaction and response handling
+
+## Day 11 (23/05/2026)
+
+Continued development of the AI Personal Assistant Chatbot by 
+adding a document upload and AI-based document summarization module.
+
+## Features
+* PDF document upload support
+* TXT file upload support
+* AI-generated document summarization
+* Chat-based document interaction
+* Modular AI application structure
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+* PyPDF2
+
+## Learning Outcome
+
+* Learned document processing workflow in AI applications
+* Understood PDF text extraction and summarization
+* Explored AI-based document understanding workflow

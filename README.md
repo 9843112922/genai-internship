@@ -163,3 +163,28 @@ adding a document upload and AI-based document summarization module.
 * Learned document processing workflow in AI applications
 * Understood PDF text extraction and summarization
 * Explored AI-based document understanding workflow
+
+## Day 12 (24/05/2026)
+
+# AI Resume Generation Module
+
+Developed an AI-powered resume generation module for the AI Personal Assistant Chatbot application.
+
+## Features
+* Professional resume content generation
+* AI-generated career objective
+* Technical skills generation
+* Resume summary creation
+* Prompt-based resume interaction
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+
+## Concepts Learned
+* AI-based text generation workflow
+* Prompt engineering for resume creation
+* Modular AI feature integration
+* Dynamic response generation using LLMs  
+

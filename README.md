@@ -188,3 +188,25 @@ Developed an AI-powered resume generation module for the AI Personal Assistant C
 * Modular AI feature integration
 * Dynamic response generation using LLMs  
 
+## Day 13 (25/05/2026)
+
+# AI Notes Generator Module
+
+Continued development of the AI Personal Assistant Chatbot by adding an AI-based notes generation feature.
+
+## Features
+* AI-generated study notes
+* Structured notes formatting
+* Topic-based notes generation
+* Chat-based notes interaction
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+
+## Concepts Learned
+* Prompt-based notes generation
+* Structured AI response formatting
+* Modular AI workflow integration
+* Educational content generation using LLMs

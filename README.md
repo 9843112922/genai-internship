@@ -210,3 +210,27 @@ Continued development of the AI Personal Assistant Chatbot by adding an AI-based
 * Structured AI response formatting
 * Modular AI workflow integration
 * Educational content generation using LLMs
+
+## Day 14 (26/05/2026)
+
+# AI Personal Assistant Chatbot
+
+Continued development of the AI Personal Assistant Chatbot by improving
+the sidebar interface and chatbot workflow.
+
+## Features
+* Improved sidebar layout
+* Added cleaner chatbot interface
+* Enhanced application navigation workflow
+* Updated chatbot interaction structure
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+
+## Concepts Learned
+* Sidebar UI improvement
+* Chat workflow handling
+* Streamlit interface customization
+* Interactive chatbot structure

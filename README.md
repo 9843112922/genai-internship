@@ -234,3 +234,26 @@ the sidebar interface and chatbot workflow.
 * Chat workflow handling
 * Streamlit interface customization
 * Interactive chatbot structure
+
+## Day 15 (27/05/2026)
+
+# AI Personal Assistant Chatbot
+
+Continued development of the AI Personal Assistant Chatbot by adding new chat workflow and chat history handling.
+
+## Features
+* Added new chat functionality
+* Implemented sidebar chat history
+* Improved conversation workflow
+* Enhanced chatbot interaction handling
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+
+## Concepts Learned
+* Chat session handling
+* Sidebar history workflow
+* Streamlit session state management
+* Conversation interaction structure

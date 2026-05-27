@@ -257,3 +257,27 @@ Continued development of the AI Personal Assistant Chatbot by adding new chat wo
 * Sidebar history workflow
 * Streamlit session state management
 * Conversation interaction structure
+
+  
+## Day 16 (28/05/2026)
+
+# AI Personal Assistant Chatbot
+
+Continued development of the AI Personal Assistant Chatbot by improving the chatbot interface and welcome message workflow.
+
+## Features
+* Added chatbot welcome message
+* Improved application interface appearance
+* Enhanced chatbot user interaction workflow
+* Updated chat interface structure
+
+## Technologies Used
+* Python
+* Streamlit
+* Groq API
+
+## Concepts Learned
+* Chatbot UI improvement
+* Streamlit interface customization
+* User interaction workflow
+* Application interface enhancement

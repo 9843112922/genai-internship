@@ -58,7 +58,8 @@ https://youtu.be/vJOGC8QJZJQ?si=VqKZITkVFq4auGDj
 
 * Completed basic LangChain learning.
 * Learned about prompt engineering and LLM workflows.
-* Explored memory types like short-term memory, long-term memory, and semantic memory.
+* Explored memory types like short-term memory, long-term
+  memory, and semantic memory.
 * Understood RAG and vector database concepts.
 * Learned how LangChain connects LLMs with external data and tools.
 
@@ -168,7 +169,8 @@ adding a document upload and AI-based document summarization module.
 
 # AI Resume Generation Module
 
-Developed an AI-powered resume generation module for the AI Personal Assistant Chatbot application.
+Developed an AI-powered resume generation module for the AI 
+Personal Assistant Chatbot application.
 
 ## Features
 * Professional resume content generation
@@ -192,7 +194,8 @@ Developed an AI-powered resume generation module for the AI Personal Assistant C
 
 # AI Notes Generator Module
 
-Continued development of the AI Personal Assistant Chatbot by adding an AI-based notes generation feature.
+Continued development of the AI Personal Assistant Chatbot by
+adding an AI-based notes generation feature.
 
 ## Features
 * AI-generated study notes
@@ -239,7 +242,8 @@ the sidebar interface and chatbot workflow.
 
 # AI Personal Assistant Chatbot
 
-Continued development of the AI Personal Assistant Chatbot by adding new chat workflow and chat history handling.
+Continued development of the AI Personal Assistant Chatbot
+by adding new chat workflow and chat history handling.
 
 ## Features
 * Added new chat functionality
@@ -263,7 +267,8 @@ Continued development of the AI Personal Assistant Chatbot by adding new chat wo
 
 # AI Personal Assistant Chatbot
 
-Continued development of the AI Personal Assistant Chatbot by improving the chatbot interface and welcome message workflow.
+Continued development of the AI Personal Assistant Chatbot by improving 
+the chatbot interface and welcome message workflow.
 
 ## Features
 * Added chatbot welcome message
@@ -286,7 +291,8 @@ Continued development of the AI Personal Assistant Chatbot by improving the chat
 
 # AI Personal Assistant Chatbot
 
-Worked on enhancing the AI Personal Assistant Chatbot interface by updating sidebar activity information and improving overall application usability.
+Worked on enhancing the AI Personal Assistant Chatbot interface
+by updating sidebar activity information and improving overall application usability.
 
 ## Features
 * Added real-time activity information in sidebar
@@ -304,3 +310,25 @@ Worked on enhancing the AI Personal Assistant Chatbot interface by updating side
 * Streamlit layout enhancement
 * Interactive UI improvement
 * Application usability optimization
+
+## Day 18 (30/05/2026)
+
+# Google ADK Learning & AI Travel Planner
+
+Today, I started learning Google ADK and explored its basic
+concepts and applications in AI development.
+
+As part of the learning process, I also initiated a new project 
+titled AI Travel Planner. This project will be gradually enhanced 
+while learning more Google ADK concepts and AI application development 
+techniques.
+
+## Technologies Used
+
+* Python
+* Streamlit
+
+## Learning Outcome
+
+Gained an initial understanding of Google ADK and started 
+applying the learning through a new AI Travel Planner project.

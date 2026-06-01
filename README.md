@@ -352,4 +352,30 @@ Today, I continued exploring Google ADK learning materials and reviewed the stru
 
 ## Learning Outcome
 
-Learned basic UI improvement techniques and enhanced the usability of the AI Travel Planner application while continuing to explore Google ADK concepts.
+Learned basic UI improvement techniques and enhanced the usability of 
+the AI Travel Planner application while continuing to explore Google ADK concepts.
+
+## Day 20 (01/06/2026)
+
+# AI Travel Planner
+
+Continued working on the AI Travel Planner project by connecting the Groq API and generating travel plans using AI.
+
+## Work Completed
+
+* Connected the AI Travel Planner application with the Groq API
+* Collected user travel details such as destination, budget, and number of days
+* Sent user inputs to the AI model using the Groq API
+* Generated travel plans based on the user inputs
+* Replaced the old static output with AI-generated travel plans
+
+## Technologies Used
+
+* Python
+* Streamlit
+* Groq API
+
+## Learning Outcome
+
+Learned how to connect the Groq API with a Streamlit application, send user inputs to the AI model, and generate travel plans using AI.
+

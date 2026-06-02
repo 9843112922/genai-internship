@@ -359,7 +359,8 @@ the AI Travel Planner application while continuing to explore Google ADK concept
 
 # AI Travel Planner
 
-Continued working on the AI Travel Planner project by connecting the Groq API and generating travel plans using AI.
+Continued working on the AI Travel Planner project by connecting 
+the Groq API and generating travel plans using AI.
 
 ## Work Completed
 
@@ -377,5 +378,37 @@ Continued working on the AI Travel Planner project by connecting the Groq API an
 
 ## Learning Outcome
 
-Learned how to connect the Groq API with a Streamlit application, send user inputs to the AI model, and generate travel plans using AI.
+Learned how to connect the Groq API with a Streamlit application, 
+send user inputs to the AI model, and generate travel plans using AI.
 
+## Day 21 (02/06/2026)
+
+# AI Travel Planner
+
+Continued development of the AI Travel Planner project by adding 
+personalized travel plan generation.
+
+## Features Implemented
+
+* Added Travel Type selection option
+* Integrated travel type with AI travel plan generation
+* Improved travel plan customization based on user inputs
+* Enhanced the application with personalized itinerary suggestions
+
+## Technologies Used
+
+* Python
+* Streamlit
+* Groq API
+
+## Completed Work
+
+The AI Travel Planner now generates travel plans based on:
+
+* Destination
+* Budget
+* Number of Days
+* Travel Type (Solo, Family, Friends, Couple, Business)
+
+The application provides different travel plans according to the selected travel type,
+making the travel recommendations more personalized.

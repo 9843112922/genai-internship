@@ -412,3 +412,32 @@ The AI Travel Planner now generates travel plans based on:
 
 The application provides different travel plans according to the selected travel type,
 making the travel recommendations more personalized.
+
+## Day 22 (03/06/2026)
+
+# AI Travel Planner
+
+Continued development of the AI Travel Planner project by 
+adding hotel recommendation functionality.
+
+## Features Implemented
+
+* Added AI-based hotel recommendations
+* Improved travel planning experience
+* Enhanced itinerary generation with accommodation suggestions
+
+## Technologies Used
+
+* Python
+* Streamlit
+* Groq API
+
+## Completed Work
+
+The AI Travel Planner now generates:
+
+* Personalized travel itineraries
+* Hotel recommendations based on the selected budget
+
+This enhancement helps users receive both travel plans and 
+suitable accommodation suggestions within the same application.

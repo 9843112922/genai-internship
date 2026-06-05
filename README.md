@@ -471,4 +471,32 @@ The AI Travel Planner now provides:
 
 This enhancement helps users prepare for their trip by providing 
 a list of essential items to carry along with their travel plan.
+## Day 23 (05/06/2026)
 
+# AI Travel Planner
+
+Continued development of the AI Travel Planner project by adding trip cost estimation functionality.
+
+## Features Implemented
+
+- Added estimated trip cost generation
+- Included hotel, food, transport, and activity cost estimates
+- Calculated total estimated trip cost
+- Improved travel planning with budget estimation
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Groq API
+
+## Completed Work
+
+# The AI Travel Planner now provides:
+
+- Personalized travel itineraries
+- Hotel recommendations
+- Packing checklist suggestions
+- Estimated trip cost breakdown
+
+This enhancement helps users understand the expected travel expenses and plan their budget more effectively before their trip.

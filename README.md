@@ -531,4 +531,36 @@ The AI Travel Planner now provides:
 - Estimated trip cost breakdown
 - Downloadable PDF travel plans
 
-This enhancement allows users to save, share, and access their travel plans conveniently in PDF format, making the application more practical and user-friendly.
+This enhancement allows users to save, share, and access their travel plans conveniently 
+in PDF format, making the application more practical and user-friendly.
+
+## Day 24 (06/06/2026)
+
+# AI Travel Planner
+
+Continued development of the AI Travel Planner project by adding a Starting Location feature.
+
+## Features Implemented
+
+* Added Starting Location input field
+* Improved travel planning by allowing users to enter both starting location and destination
+* Enhanced itinerary generation with route-based travel information
+
+## Technologies Used
+
+* Python
+* Streamlit
+* Groq API
+
+## Completed Work
+
+The AI Travel Planner now allows users to enter:
+
+* Starting Location
+* Destination
+* Budget
+* Trip Duration
+* Travel Type
+
+This enhancement helps generate more personalized travel plans by 
+considering both the user's starting point and destination.

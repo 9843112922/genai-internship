@@ -442,7 +442,7 @@ The AI Travel Planner now generates:
 This enhancement helps users receive both travel plans and 
 suitable accommodation suggestions within the same application.
 
-## Day 22 (04/06/2026)
+## Day 23 (04/06/2026)
 
 # AI Travel Planner
 
@@ -471,7 +471,7 @@ The AI Travel Planner now provides:
 
 This enhancement helps users prepare for their trip by providing 
 a list of essential items to carry along with their travel plan.
-## Day 23 (05/06/2026)
+## Day 24 (05/06/2026)
 
 # AI Travel Planner
 
@@ -501,7 +501,7 @@ Continued development of the AI Travel Planner project by adding trip cost estim
 
 This enhancement helps users understand the expected travel expenses and plan their budget more effectively before their trip.
 
-## Day 24 (06/06/2026)
+## Day 25 (06/06/2026)
 
 # AI Travel Planner
 
@@ -534,7 +534,7 @@ The AI Travel Planner now provides:
 This enhancement allows users to save, share, and access their travel plans conveniently 
 in PDF format, making the application more practical and user-friendly.
 
-## Day 25 (07/06/2026)
+## Day 26 (07/06/2026)
 
 # AI Travel Planner
 
@@ -564,7 +564,7 @@ The AI Travel Planner now allows users to enter:
 
 This enhancement helps generate more personalized travel plans by 
 considering both the user's starting point and destination.
-## Day 26 (08/06/2026)
+## Day 27 (08/06/2026)
 
 # AI Travel Planner
 

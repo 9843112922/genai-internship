@@ -564,6 +564,7 @@ The AI Travel Planner now allows users to enter:
 
 This enhancement helps generate more personalized travel plans by 
 considering both the user's starting point and destination.
+
 ## Day 27 (08/06/2026)
 
 # AI Travel Planner
@@ -591,3 +592,32 @@ The AI Travel Planner interface was redesigned to provide a cleaner and
 more professional user experience. Input fields were organized using a two-column layout,
 custom styling was applied, and the overall appearance of the application was improved to
 make trip planning more user-friendly and visually appealing.
+# Day 28 (09/06/2026)
+
+## AI Travel Planner
+
+Continued development of the AI Travel Planner project by adding a Local Food Recommendation feature.
+
+## Features Implemented
+
+- Added local food recommendations
+- Enhanced travel experience with destination-specific food suggestions
+- Improved travel itinerary with local cuisine information
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Groq API
+
+## Completed Work
+
+The AI Travel Planner now provides:
+
+- Personalized travel itineraries
+- Hotel recommendations
+- Packing checklist suggestions
+- Estimated trip cost
+- Local food recommendations
+
+This enhancement helps users discover popular local dishes and food specialties at their travel destination, making the travel experience more informative and enjoyable.

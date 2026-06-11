@@ -623,7 +623,7 @@ The AI Travel Planner now provides:
 This enhancement helps users discover popular local dishes and food specialties at their
 travel destination, making the travel experience more informative and enjoyable.
 
-## Day 30 (10/06/2026)
+## Day 29 (10/06/2026)
 
 # AI Travel Planner & AI Personal Assistant
 
@@ -649,7 +649,7 @@ Both applications were tested successfully in Streamlit. The user interface, inp
 AI-generated responses were verified to ensure the applications are working correctly. 
 Testing was completed to validate the overall functionality of the projects.
 
-# Day 31 (11/06/2026)
+# Day 30 (11/06/2026)
 
 ## Internship Project Completion
 
